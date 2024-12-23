@@ -1,6 +1,6 @@
 ## AA_TerralithRepack
 A Ressource pack to make Antique Atlas 4 work better with terralith.
-So far only i only added biomes. Idk if i ever do the structures
+So far I only added biomes. Idk if i ever do the structures
 
 ## Changelog
 # V0.2
